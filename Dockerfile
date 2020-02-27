@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-EXPOSE 19898
+EXPOSE 18232
 
 RUN apt-get update
 

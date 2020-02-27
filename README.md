@@ -2,7 +2,7 @@
 
 # Running
 ```
-docker run -p 19898:19898 --rm coinzway/dashd-integration-test-docker:latest
+docker run -p 18232:18232 --rm coinzway/dashd-integration-test-docker:latest
 ```
 
 # Building
